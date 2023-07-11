@@ -1,0 +1,621 @@
+body{
+    margin-top: -30px;
+}
+.sarkari{
+    background-color: #AB183D;
+    height: 200px;
+    width: 1000px;
+    margin-left: 180px;
+}
+img{
+    margin-top: -150px;
+    margin-left: 25px;
+}
+h1{
+    color: white;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-left: 400px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part{
+    width: 1000px;
+    margin-top: -18px;
+    margin-left: 180px;
+    padding: 0px;
+    background-color: black;
+}
+.part ul{
+    display: flex;
+    text-decoration: none;
+    border-right: 1px solid white; 
+}
+li{
+   
+    padding: 20.5px;
+    margin-left: 17.3px;
+    border-right: 1px solid white; 
+    
+}
+.part li a{
+    text-decoration: none;
+    color: white;
+}
+.para p{
+    font-size: 18PX;
+    margin-left: 20px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sp{
+  margin-top: -5px;
+    color: red;
+    margin-left: 450px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para1{
+    color:blue;
+    margin-left: 210px;
+    font-size: 18PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+  background-color: #0000A0;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  width: 350px;
+  margin-left: 500px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.grid-container {
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto auto;
+    background-color: white;
+    padding: 20px;
+    gap:5px;
+    justify-content: center;
+    margin: 0px 150px 0px 165px; 
+
+  }
+  
+  .marq{
+    width: 1000px;
+    padding-left: 180px;
+    padding-right: 180px;
+  }
+  .marq a{
+    color: blue;
+    font-weight: bold;
+  }
+  .m0{
+    text-align: center;
+    margin-left: 0px;
+    /* font-size: 15px; */
+  }
+  .m1{
+    text-align: center;
+    margin-left: 60px;
+
+  }
+  .m2{
+    text-align: center;
+    margin-left: 90px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
+  #c1{
+    background-color: #868A08;
+  }
+  #c2{
+    background-color: blue;
+  }
+  #c3{
+    background-color: orange;
+  }
+  #c4{
+    background-color: maroon;
+  }
+  #c5{
+    background-color: red;
+  }
+  #c6{
+    background-color: green;
+  }
+  #c7{
+    background-color: palevioletred;
+  }
+  #c8{
+    background-color: blueviolet;
+  }
+
+  .container{
+    width: 100%;
+    display: flex;
+  gap: 25px;
+  margin-left: 190px;
+
+  }
+  .body{
+    width: calc(23.5% - 10px);
+    height: auto;
+    border: 2px solid #D2691E;
+  }
+  .border{
+    width: calc(23.5% - 10px);
+    height: auto;
+    border: 2px solid #D2691E;
+  }
+  .box{
+    width: calc(23.5% - 10px);
+    height: auto;
+    border: 2px solid #D2691E;
+  }
+  h2{
+    background-color: #AB183D;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 0.5px;
+  }
+.body ul li a{
+  color: blue;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.box ul li a{
+  color: blue;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.border ul li a{
+  color: blue;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.body ul li{
+  margin-top:-30px;
+}
+.border ul li{
+  margin-top:-30px;
+}
+.box ul li{
+  margin-top:-30px;
+}
+#more ul li a{
+display: none;
+}
+h5{
+  cursor:pointer;
+  text-align: right;
+  margin-right: 50px;
+  font-size:20px;
+}
+#more1 ul li a{
+  display: none;
+  }
+  #more2 ul li a{
+    display: none;
+    }
+
+.bbbbb{
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    margin-left: 190px;
+    margin-top: 25px;
+    }
+
+.rrrrr{
+      width: calc(23.5% - 10px);
+      height: 500px;
+      border: 2px solid #D2691E;
+    }
+    .rrrrr ul li a{
+      color: blue;
+      margin-right: 50px;
+      font-size: 20px;
+    }
+    .rrrrr ul li{
+      margin-top:-40px;
+    }
+    h6{
+    background-color: #AB183D;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0.5px;
+    }
+
+    .rk{
+      width: calc(23.5% - 10px);
+      height: 500px;
+      border: 2px solid #D2691E;
+    }
+    .rk ul li a{
+      color: blue;
+      margin-right: 50px;
+      font-size: 20px;
+    }
+    .rk ul li{
+      margin-top:-40px;
+    }
+    h6{
+    background-color: #AB183D;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0.5px;
+    }
+    .ry{
+      width: calc(23.5% - 10px);
+      height: auto;
+      border: 2px solid #D2691E;
+    }
+    .ry ul li a{
+      color: blue;
+      margin-right: 50px;
+      font-size: 20px;
+    }
+    .ry ul li{
+      margin-top:-40px;
+    }
+    h6{
+    background-color: #AB183D;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0.5px;
+    }
+
+
+    .certificate{
+      width: 100%;
+      display: flex;
+      gap: 25px;
+      margin-left: 190px;
+      margin-top:-460px;
+      height: 350px;
+      
+      }
+      .veri{
+        width: calc(23.5% - 10px);
+        height: 456px;
+        border: 2px solid #D2691E;
+      }
+      .veri ul li a{
+        color: blue;
+        margin-right: 50px;
+        font-size: 20px;
+      }
+      .veri ul li{
+        margin-top:-40px;
+      }
+      h4{
+      background-color: #AB183D;
+      color: white;
+      padding: 15px;
+      text-align: left;
+      margin-top: 0.5px;
+      }
+
+      .impot{
+        width: calc(23.5% - 10px);
+        height: 456px;
+        border: 2px solid #D2691E;
+      }
+      .impot ul li a{
+        color: blue;
+        margin-right: 50px;
+        font-size: 20px;
+      }
+      .impot ul li{
+        margin-top:-40px;
+      }
+      h4{
+      background-color: #AB183D;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 25px;
+      margin-top: 0px;
+      }
+
+      .desc{
+        border: 2px solid #D2691E;
+        height: auto;
+        margin: 170px;
+        margin-left: 190px;
+      }
+      #desc1{
+        margin-bottom:25px ;
+      }
+      #cont div{
+        margin-bottom: 30px;
+        text-align: center;
+      }
+
+      @media screen and (max-width:1024px) {
+        .sarkari{
+          margin-left: 50px;
+          margin-right: 50px;
+          width: 910px;
+        }
+        .sarkari h1{
+            font-size: 40px;
+            margin-left: 350px;
+            
+        } 
+        .sarkari p{
+          margin-left:150px ;
+          font-size: 20px;
+        }
+        .sarkari img{
+          margin-top: -150px;
+        }
+        .part{
+          margin-left: 50px;
+        width: 910px;
+        }
+        .part ul li{
+          margin-left: 6.02px;
+        }
+        .part ul li a{
+          text-align:center ;
+        }
+
+        .para p{
+          margin-left: 0px;
+        }
+        .sp{
+          margin-left: 280px;
+        }
+        .para1{
+          margin-left: 60px;
+          font-size: 17px;
+        }
+        .marq {
+          margin-left: -130px;
+          margin-right: -300px;
+        }
+        .m0{
+          margin-left: 0px;
+          font-size: 15px;
+          margin-right: 100px;
+        }
+        .m1{
+          margin-left: 0px;
+          font-size: 15px;
+          margin-right: 100px;
+        }
+        .m2{
+          margin-left: 0px;
+          font-size: 15px;
+          margin-right: 100px;
+        }
+        h3{
+          margin-left: 330px;
+        }
+        .grid-item{
+          font-size: 15px;
+          height: 35px;
+          padding-top: 1px;
+        }
+        .grid-container{
+          margin-left: 30px;
+          margin-right: 30px;
+        }
+        .container{
+          margin-left: 50px;
+          width: 1240px;
+        }
+        .bbbbb{
+          margin-left: 50px;
+          width: 1240px;
+        }
+        .certificate{
+          margin-left: 50px;
+          width: 1240px;
+        }
+        .desc{
+          width: 90%;
+          margin-left: 50px;
+        }
+      }
+
+      @media screen and (max-width:768px) {
+        .sarkari{
+          margin-left: 50px;
+          margin-right: 50px;
+          width: 660px;
+        }
+        .sarkari h1{
+            font-size: 30px;
+            margin-left: 270px;
+            
+        } 
+        .sarkari p{
+          margin-left:150px ;
+          font-size: 15px;
+        }
+        .sarkari img{
+          margin-top: -115px;
+        }
+        .part{
+          margin-left: 50px;
+        width: 660px;
+        }
+        .part ul li{
+          margin-left: -20px;
+        }
+        .part ul li a{
+          text-align:center;
+          font-size: 14.6px;
+          /* padding-left: 10px; */
+        }
+
+      .para p{
+          margin-left: 50px;
+          margin-right: 45px;
+          font-size: 13px;
+        }
+        .sp{
+          margin-left: 190px;
+          font-size: 14px;
+        }
+        .para1{
+          text-align: center;
+          margin-left: 50px;
+          margin-right:50px;
+          font-size: 15px;
+        }
+        .marq {
+          margin-left: -130px;
+          margin-right: 50px;
+        }
+        .m0{
+          margin-left: 0px;
+          font-size: 11px;
+          margin-right: 350px;
+          font-weight: bold;
+        }
+        .m1{
+          margin-left: 0px;
+          font-size: 11px;
+          margin-right: 350px;
+          font-weight: bold;
+        }
+        .m2{
+          margin-left: 0px;
+          font-size: 11px;
+          margin-right: 350px;
+          font-weight: bold;
+        }
+        h3{
+          margin-left: 270px;
+          font-size: 15px;
+          width: 205px;
+        }
+        .grid-container{
+          margin-left: 30px;
+          margin-right: 30px;
+        }
+        .container{
+          margin-left: 50px;
+          width: 880px;
+        }
+        .container ul li a{
+          font-size: 17px;
+        }
+        h2{
+          font-size: 18px;
+        }
+        .bbbbb{
+          margin-left: 50px;
+          width: 880px;
+        }
+        .bbbbb ul li a{
+          font-size: 17px;
+        }
+        h6{
+          font-size: 18px;
+        }
+        .certificate{
+          margin-left: 50px;
+          width: 880px;
+          margin-bottom: 100px;
+        }
+        .certificate ul li a{
+          font-size: 17px;
+        }
+        .desc{
+          width: 86%;
+          margin-left: 50px;
+        }
+        #cont div{
+          margin-bottom: 30px;
+          text-align: center;
+        }
+        h4{
+          font-size: 18px;
+        }
+      }
+
+      @media screen and (max-width:480px) {
+        .sarkari{
+          margin-left: 0px;
+          /* margin-right: 50px; */
+          width:100%;
+        }
+        .sarkari h1{
+            font-size: 30px;
+            margin-left: 190px;
+            
+        } 
+        .sarkari p{
+          margin-left:150px ;
+          font-size: 15px;
+        }
+        .sarkari img{
+          margin-top: -105px;
+        }
+        .part{
+          margin-left: 0px;
+        width: 100%;
+        }
+        .part ul li{
+          margin-left: 0px;
+        }
+        .part ul li a{
+          text-align:center;
+          font-size: 5.6px;
+          /* padding-left: 10px; */
+        }
+
+      .para p{
+          margin-left: 0px;
+          margin-right: 5px;
+          font-size: 15px;
+        }
+        .sp{
+          width: 100%;
+          margin-left: 15px;
+          font-size: 15px;
+        }
+        .para1{
+          text-align: center;
+          width: 80%;
+          font-size: 15px;
+        }
+        .marq {
+          margin-left: -130px;
+          margin-right: 50px;
+        }
+      }
